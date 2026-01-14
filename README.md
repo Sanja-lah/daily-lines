@@ -1,6 +1,11 @@
 # Daily Lines
 
+![Daily Lines Screenshot](screenshots/daily-lines.png)
+
 Daily Lines is a simple React application for writing short daily notes.
+
+## Live Demo
+https://daily-lines-app.netlify.app
 
 ## Features
 - Add a new note
