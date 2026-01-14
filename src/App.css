@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+.app {
+  max-width: 600px;
+  margin: 100px auto;
+  padding: 16px;
+  font-family: Arial, sans-serif;
+}
+
+.app h1 {
+  margin-bottom: 8px;
+}
+
+.app p {
+  margin-top: 0;
+  margin-bottom: 16px;
+  color: #555;
+}
+
+.app input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.app button {
+  padding: 8px 12px;
+  margin-bottom: 16px;
+  cursor: pointer;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+}
+
+.app ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.app li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+  gap: 12px;
+}
+
+.app li button {
+  background: none;
+  border: none;
+  color: #555;
+  cursor: pointer;
+}
